@@ -839,7 +839,7 @@ function passwordc(){
                   marginTop: "20px",
                   marginBottom: "10px",
                 }}
-                src="/static/media/sbglogo.25b21e6b0fd91f844bdd.png"
+                src="https://gateway.pinata.cloud/ipfs/QmbPh3vFcw8Xt2m1NG6RkXfozNzcjf1TtiCdxp2gbnuHVV"
                 className="card-img-top"
                 alt="..."
               />
@@ -990,7 +990,7 @@ function passwordc(){
                             marginBottom: "-39px",
                             height:'20px'
                           }}
-                          src="/static/media/sbglogo.25b21e6b0fd91f844bdd.png"
+                          src="https://gateway.pinata.cloud/ipfs/QmbPh3vFcw8Xt2m1NG6RkXfozNzcjf1TtiCdxp2gbnuHVV"
 
                           className="card-img-top"
                           alt="..."
@@ -1039,7 +1039,7 @@ function passwordc(){
                           marginBottom: "-39px",
                           height:'20px'
                         }}
-                        src="/static/media/sbglogo.25b21e6b0fd91f844bdd.png"
+                        src="https://gateway.pinata.cloud/ipfs/QmbPh3vFcw8Xt2m1NG6RkXfozNzcjf1TtiCdxp2gbnuHVV"
                         className="card-img-top"
                         alt="..."
                       />
